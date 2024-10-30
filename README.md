@@ -1,4 +1,4 @@
-# Chat Bot for NNRoad
+# Chat Bot
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## Description
 
-NNRoad intern starter project
+Used for intern starter project
 
 ## Example
 ![image](https://github.com/tyleroneil72/chat-bot/assets/43754564/9f63c52f-9229-49ef-8987-4e5d080f8672)
@@ -49,6 +49,3 @@ And the index.html file should open in your browser
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-This project was inspired by the capabilities of OpenAI's API.
