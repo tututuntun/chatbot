@@ -1,16 +1,11 @@
 # Chat Bot
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Openai](https://img.shields.io/badge/Openai-404D59?style=for-the-badge)
+
 
 ## Description
 
-Used for intern starter project
+Forked for calling gemini service along with openai service
 
 ## Example
 ![image](https://github.com/tyleroneil72/chat-bot/assets/43754564/9f63c52f-9229-49ef-8987-4e5d080f8672)
@@ -21,8 +16,8 @@ Used for intern starter project
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tyleroneil72/chat-bot.git
-cd chat-bot
+git clone git@github.com:tututuntun/chatbot.git
+cd chatbot
 ```
 
 2. Install dependencies:
