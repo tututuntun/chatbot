@@ -68,7 +68,7 @@ async function sendMessage() {
         // Display the typing indicator while waiting for the OpenAI's response
         displayTypingIndicator();
 
-        const response = await fetch('http://127.0.0.1:3000/message', {
+        const response = await fetch('http://localhost:3000/message', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
