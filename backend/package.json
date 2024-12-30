@@ -13,8 +13,6 @@
   },
   "name": "chat_bot",
   "version": "1.0.0",
-  "description": "Chat Bot Using OpenAI's API backend express server",
-  "main": "app.js",
-  "author": "Tyler O'Neil",
-  "license": "MIT"
+  "description": "Chat Bot Using Gemini and OpenAI's API backend express server",
+  "main": "app.js"
 }
